@@ -1,5 +1,5 @@
 ### Hi there 👋
--  I’m @beratton
+-  I’m Berat
 - 🌱 I’m currently learning Selenium
 - 💞️ I’m looking to collaborate on Software Testing
 - 📫 How to reach me beratton@protonmail.com
