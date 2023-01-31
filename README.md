@@ -1,6 +1,6 @@
 ### Hi there 👋
 -  I’m Berat
-- 🌱 I’m currently learning Selenium
+- 🌱 I’m currently learning API Testing
 - 💞️ I’m looking to collaborate on Software Testing
 - 📫 How to reach me qt.berat@outlook.com
 - 💬 SDLC, Java, mySQL ,JDBC, HTML, CSS, Selenium, JUnit, TestNG, XML, Cucumber 
