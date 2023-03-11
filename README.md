@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning API Testing
 - 💞️ I’m looking to collaborate on Software Testing
 - 📫 How to reach me qt.berat@outlook.com
-- 💬 SDLC, Java, mySQL ,JDBC, HTML, CSS, Selenium, JUnit, TestNG, XML, Cucumber 
+- 💬 SDLC, Java, mySQL ,JDBC, HTML, CSS, Selenium, JUnit, TestNG, XML, Cucumber, JiraXRAY , API Postman, MySQL, JDBC
 <!---
 beratton/beratton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
